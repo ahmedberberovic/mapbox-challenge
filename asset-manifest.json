@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mapbox-challenge/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/mapbox-challenge/static/js/main.4e2d5a3f.chunk.js",
+    "main.js.map": "/mapbox-challenge/static/js/main.4e2d5a3f.chunk.js.map",
+    "runtime-main.js": "/mapbox-challenge/static/js/runtime-main.51725771.js",
+    "runtime-main.js.map": "/mapbox-challenge/static/js/runtime-main.51725771.js.map",
+    "static/css/2.7a6f2ae5.chunk.css": "/mapbox-challenge/static/css/2.7a6f2ae5.chunk.css",
+    "static/js/2.d3eab55d.chunk.js": "/mapbox-challenge/static/js/2.d3eab55d.chunk.js",
+    "static/js/2.d3eab55d.chunk.js.map": "/mapbox-challenge/static/js/2.d3eab55d.chunk.js.map",
+    "index.html": "/mapbox-challenge/index.html",
+    "precache-manifest.bf59a4b776c2820f556420537322194e.js": "/mapbox-challenge/precache-manifest.bf59a4b776c2820f556420537322194e.js",
+    "service-worker.js": "/mapbox-challenge/service-worker.js",
+    "static/css/2.7a6f2ae5.chunk.css.map": "/mapbox-challenge/static/css/2.7a6f2ae5.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/mapbox-challenge/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d3eab55d.chunk.js.LICENSE": "/mapbox-challenge/static/js/2.d3eab55d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51725771.js",
+    "static/css/2.7a6f2ae5.chunk.css",
+    "static/js/2.d3eab55d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4e2d5a3f.chunk.js"
+  ]
+}
